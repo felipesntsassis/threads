@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53a6a1dc-e2e4-4125-a9dc-3bae6b407adb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AsyncSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AsyncSample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SyncBlockSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SyncMethodSample.java" afterDir="false" />
+    <list default="true" id="53a6a1dc-e2e4-4125-a9dc-3bae6b407adb" name="Changes" comment="Desenvolvimento dos exemplos.">
+      <change afterPath="$PROJECT_DIR$/src/CallableSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetAvaliableProcessors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReturnTaskSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadSample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +58,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675334513888</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Desenvolvimento dos exemplos.">
+      <created>1675338430560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675338430560</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicial version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicial version" />
+    <MESSAGE value="Desenvolvimento dos exemplos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desenvolvimento dos exemplos." />
   </component>
 </project>
